@@ -1,0 +1,9 @@
+L:\C#\Wallpaper Changer\Wallpaper Changer\Wallpaper Changer\bin\Debug\Wallpaper Changer.exe.config
+L:\C#\Wallpaper Changer\Wallpaper Changer\Wallpaper Changer\bin\Debug\Wallpaper Changer.exe
+L:\C#\Wallpaper Changer\Wallpaper Changer\Wallpaper Changer\bin\Debug\Wallpaper Changer.pdb
+L:\C#\Wallpaper Changer\Wallpaper Changer\Wallpaper Changer\obj\Debug\Wallpaper_Changer.Form1.resources
+L:\C#\Wallpaper Changer\Wallpaper Changer\Wallpaper Changer\obj\Debug\Wallpaper_Changer.Properties.Resources.resources
+L:\C#\Wallpaper Changer\Wallpaper Changer\Wallpaper Changer\obj\Debug\Wallpaper Changer.csproj.GenerateResource.cache
+L:\C#\Wallpaper Changer\Wallpaper Changer\Wallpaper Changer\obj\Debug\Wallpaper Changer.csproj.CoreCompileInputs.cache
+L:\C#\Wallpaper Changer\Wallpaper Changer\Wallpaper Changer\obj\Debug\Wallpaper Changer.exe
+L:\C#\Wallpaper Changer\Wallpaper Changer\Wallpaper Changer\obj\Debug\Wallpaper Changer.pdb
